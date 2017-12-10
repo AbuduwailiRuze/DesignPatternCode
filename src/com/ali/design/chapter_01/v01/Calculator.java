@@ -6,6 +6,7 @@ public class Calculator {
 
 	public static void main(String[] args) {
 
+		//hhhhh
 		Scanner in = new Scanner(System.in);
 		System.out.println("请输入数字A：");
 		int a = in.nextInt();
