@@ -1,8 +1,12 @@
 package com.ali.design.chapter_08.v01;
 
 public abstract class Operation {
-
+	
+	
+	
+	//hello 
 	protected double numberA;
+	//hello walee
 	protected double numberB;
 
 	public double getNumberA() {
