@@ -1,7 +1,7 @@
 package com.ali.design.chapter_08.v01;
 
 public class Client {
-	
+	//main
 	public static void main(String[] args) {
 		IFactory factory=new AddFactory();
 		Operation operation = factory.createOperation(1,3);
