@@ -6,7 +6,7 @@ public abstract class Operation {
 	
 	//hello 
 	protected double numberA;
-	//hello walee
+	//hello walee 333
 	protected double numberB;
 
 	public double getNumberA() {
