@@ -3,6 +3,7 @@ package com.ali.design.chapter_08.v01;
 public abstract class Operation {
 	
 	
+
 	//hello 44443336666
 	protected double numberA;
 	//hello walee 555
