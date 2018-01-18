@@ -4,7 +4,7 @@ public abstract class Operation {
 	
 	
 
-	//hello 44443336666
+	//hello 4444333
 	protected double numberA;
 	//hello walee 555
 	protected double numberB;
